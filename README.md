@@ -18,6 +18,10 @@ This pack includes several components, which is the latest version of Hekate, At
 - Delete the previous files or just replace it with the new downloaded pack, as easy as that.
 DISS-HATS also can be updated via [DISS-Toolbox](https://github.com/team-voidz/DISS-toolbox)
 
+
+## DISCLAIMER
+Might delete/overide your app/homebrews/setting. Backup your SD before use
+
 ## INFO HOW TO BOOT TO THE REAL STOCK (OFW) FROM HEKATE
 credit to [sthethix](https://github.com/sthetix)
 
