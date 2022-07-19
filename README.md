@@ -16,7 +16,6 @@ This pack includes several components, which is the latest version of Hekate, At
 ## UPDATING THE PACK
 
 - Delete the previous files or just replace it with the new downloaded pack, as easy as that.
-DISS-HATS also can be updated via [DISS-Toolbox](https://github.com/team-voidz/DISS-toolbox)
 
 
 ## DISCLAIMER
